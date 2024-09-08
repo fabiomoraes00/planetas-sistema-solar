@@ -32,6 +32,4 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para abrir um pull req
 * **Quiz:** Criar um quiz sobre o Sistema Solar para testar seus conhecimentos.
 * **Realidade virtual:** Explorar a possibilidade de criar uma experiência de realidade virtual para visitar os planetas.
 
-**Link para testar a aplicação:** https://planetas-sistema-solar.vercel.app/
-
 **Divirta-se explorando o universo! **
